@@ -1,0 +1,14 @@
+# Secrets — never commit these
+*.env
+config.yaml
+credentials.ini
+*api_token*
+*api_key*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
