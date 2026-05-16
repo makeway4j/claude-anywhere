@@ -1,6 +1,7 @@
 # claude-anywhere
 
 > Access Claude Code and your full development environment from any device — phone, tablet, laptop, or desktop — through a browser.
+<img width="1450" height="1012" alt="image" src="https://github.com/user-attachments/assets/812942a7-eb15-47e0-8eee-edee8ccba23e" />
 
 ![code-server](https://img.shields.io/badge/code--server-v4.118.0-blue) ![Let's Encrypt](https://img.shields.io/badge/SSL-Let's%20Encrypt-green) ![Claude Code](https://img.shields.io/badge/Claude%20Code-v2.1.143-orange)
 
